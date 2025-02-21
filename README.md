@@ -1,2 +1,1 @@
-# PowerBi-Project
-Zomato Sales Dashboard
+# Zomato Sales Dashboard
